@@ -72,12 +72,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HQID/HQID/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HQID/HQID/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HQID/HQID/output/pacman-contribution-graph.svg">
